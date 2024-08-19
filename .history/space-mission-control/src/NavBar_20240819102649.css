@@ -1,0 +1,14 @@
+.navbar {
+  background-color: darkblue;
+  padding: 10px 0;
+}
+
+.nav-list {
+  list-style: none;
+  display: inline-block;
+  justify-content: left;
+}
+.nav-item {
+  border: 2px solid red;
+  margin: 0 5px;
+}

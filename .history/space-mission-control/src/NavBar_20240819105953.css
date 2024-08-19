@@ -1,0 +1,22 @@
+.navbar {
+  background-color: darkblue;
+  padding: 10px 0;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: left;
+  padding: 0;
+  margin: 0;
+  justify-content: flex-start;
+}
+.nav-item {
+  border: 2px solid red;
+  padding: 10px 20px;
+  margin: 0 10px;
+  box-sizing: border-box;
+  text-align: center;
+  color: white;
+  flex: 1;
+}

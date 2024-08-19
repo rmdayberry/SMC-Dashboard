@@ -1,0 +1,12 @@
+.navbar {
+  background-color: darkblue;
+  padding: 10px 0;
+}
+
+.nav-list {
+  margin: 0 15px;
+  padding: 5px 10px;
+}
+.nav-item {
+  border: 2px solid red;
+}
