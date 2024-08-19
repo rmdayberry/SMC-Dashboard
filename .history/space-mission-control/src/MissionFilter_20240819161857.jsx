@@ -1,5 +1,3 @@
-import "./MissionFilter.css";
-
 function MissionFilter({ onFilterChange }) {
   return (
     <div className="mission-filter">

@@ -1,0 +1,13 @@
+.mission-filter button {
+  background-color: black;
+  border: 2px solid red;
+  color: white;
+  padding: 5px 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.mission-filter button:hover {
+  background-color: red;
+  color: black;
+}

@@ -1,4 +1,4 @@
-import "./MissionFilter.css";
+import "MissionFilter.css";
 
 function MissionFilter({ onFilterChange }) {
   return (

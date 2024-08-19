@@ -5,12 +5,4 @@ body {
   color: white;
   font-family: "roboto mono", "Gill Sans", "Gill Sans MT", Calibri,
     "Trebuchet MS", sans-serif;
-  margin: 0;
-  padding: 0;
-}
-.header {
-  font-family: "roboto mono";
-  font-size: 2rem;
-  margin: 20px;
-  text-align: left;
 }

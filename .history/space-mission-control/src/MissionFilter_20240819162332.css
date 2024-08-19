@@ -1,0 +1,7 @@
+.mission-filter button {
+  background-color: black;
+  border: 2px solid red;
+  color: white;
+  margin: 5px;
+  display: flex;
+}

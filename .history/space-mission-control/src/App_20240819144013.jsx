@@ -56,7 +56,7 @@ function App() {
 
   return (
     <>
-      <h1 className="header">Space Mission Control</h1>
+      <header>Space Mission Control</header>
       <MissionControl missions={INITIAL_MISSIONS} />
     </>
   );
