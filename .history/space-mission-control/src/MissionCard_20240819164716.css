@@ -1,0 +1,22 @@
+.mission-card {
+  display: flex;
+  border: 1px solid white;
+  padding: 20px;
+  margin: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+}
+
+.mission-name {
+  color: white;
+  flex: 1;
+}
+
+.mission-status {
+  border: 2px solid lime;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
