@@ -54,11 +54,7 @@ function App() {
     },
   ];
 
-  return (
-    <>
-      <MissionControl missions={INITIAL_MISSIONS} />
-    </>
-  );
+  return <></>;
 }
 
 export default App;

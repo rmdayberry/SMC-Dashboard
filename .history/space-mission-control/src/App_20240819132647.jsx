@@ -1,4 +1,4 @@
-import MissionControl from "./MissionControl";
+import MissionControl
 
 function App() {
   const INITIAL_MISSIONS = [
@@ -56,7 +56,6 @@ function App() {
 
   return (
     <>
-      <MissionControl missions={INITIAL_MISSIONS} />
     </>
   );
 }
