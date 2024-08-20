@@ -1,5 +1,5 @@
 import "./MissionCard.css";
-import MissionAction from "./MissionAction";
+import MissionAction from "./MissionAction.jsx";
 
 function MissionCard({ mission }) {
   return (
@@ -9,6 +9,7 @@ function MissionCard({ mission }) {
         <p className="mission-status">Status: {mission.status}</p>
         <p className="mission-crew">Crew: {mission.crew}</p>
       </span>
+      <MissionAction mission={mission} onStatusChange={handleStausChange} />
     </div>
   );
 }

@@ -9,6 +9,9 @@ function MissionCard({ mission }) {
         <p className="mission-status">Status: {mission.status}</p>
         <p className="mission-crew">Crew: {mission.crew}</p>
       </span>
+      <span className="actions">
+        <MissionAction mission={mission} onStatusChange={handleStausChange} />
+      </span>
     </div>
   );
 }

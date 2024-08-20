@@ -2,7 +2,7 @@
   display: flex;
   border: 1px solid white;
   padding: 10px;
-  margin: 20px 20px 0;
+  margin: 10px 20px;
   justify-content: space-between;
   align-items: center;
   text-align: left;
@@ -22,6 +22,8 @@
 }
 
 .mission-crew {
+  border: 1px solid lime;
+  background-color: black;
   color: white;
   padding: 5px 10px;
   text-align: right;

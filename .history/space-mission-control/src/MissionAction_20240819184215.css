@@ -1,0 +1,9 @@
+.mission-action button {
+  border: 1px solid lime;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  text-align: right;
+  font-size: 10px;
+  margin-left: 20px;
+}
